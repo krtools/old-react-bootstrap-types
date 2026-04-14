@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "jsx": "preserve",
+    "noEmit": true,
+    "skipLibCheck": false,
+    "types": ["react"],
+    "paths": {
+      "react-bootstrap": ["./index.d.ts"]
+    },
+    "baseUrl": ".",
+    "ignoreDeprecations": "6.0"
+  },
+  "include": ["test.tsx", "index.d.ts"],
+  "exclude": ["node_modules"]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "@krllc/old-react-bootstrap-types",
+  "version": "0.32.4",
+  "description": "TypeScript 6 compatible type definitions for react-bootstrap 0.32",
+  "types": "./index.d.ts",
+  "files": [
+    "index.d.ts"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/krtools/old-react-bootstrap-types.git"
+  },
+  "keywords": [
+    "react-bootstrap",
+    "typescript",
+    "types",
+    "definitions"
+  ],
+  "devDependencies": {
+    "@types/react": "^18.0.0",
+    "react": "16.14.0",
+    "typescript": "6.0.2"
+  }
+}
